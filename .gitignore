@@ -1,0 +1,5 @@
+# Ignore all .npy files
+*.npy
+
+# Ignore all files in the dataset directory
+dataset/
